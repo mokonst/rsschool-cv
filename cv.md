@@ -1,5 +1,6 @@
 1. Konstantin Mozhaev
-2. +79518884895, yamoko@yandex.ru
+2. +79518884895, 
+   yamoko@yandex.ru
 3. Summary: please stand by
 4. Skills: HTML/CSS/JS (novice), sql (novice), GIT (novice)
 5. Code examples (LATEST): HTML Academy (cource)
