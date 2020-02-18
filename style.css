@@ -1,0 +1,25 @@
+header, footer, article {
+    width: 800px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: white;
+}
+
+header, footer {
+    background-color: #33CEC3;
+}
+
+article {
+    background-color: #009D91;
+}
+
+img {
+    border-radius: 50%;
+    border: 2px white solid;
+    width: 200px;
+}
+
+.info {
+    max-width: 500px;
+}
