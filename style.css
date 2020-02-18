@@ -1,0 +1,20 @@
+header, footer, article {
+    width: 800px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header, footer {
+    background-color: bisque;
+}
+
+article {
+    background-color: grey;
+}
+
+img {
+    border-radius: 50%;
+    border: 2px white solid;
+    width: 200px;
+}
